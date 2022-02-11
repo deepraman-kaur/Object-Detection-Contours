@@ -1,0 +1,1 @@
+I have shown, how to detect any object on the basis of color and then draw its contours using OpenCV and Image Processing
